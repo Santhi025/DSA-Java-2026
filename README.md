@@ -6,6 +6,8 @@ This repository contains Data Structures and Algorithms problems solved in **Jav
 - Strengthen problem-solving skills
 - Prepare for product-based company interviews
 - Maintain consistency in DSA practice
+📄 See full record here:  
+➡️ [problem_log.md](./problem_log.md)
 
 ## Structure
 Problems are organized by topic:
