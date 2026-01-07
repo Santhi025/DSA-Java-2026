@@ -106,4 +106,6 @@ This file tracks all DSA problems I solve in 2026.
 | 50    | 2026-01-07 | GFG      | Add Number Linked Lists                                    | https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-list/ | LinkedList       | Medium     |
 | 51    | 2026-01-07 | GFG      | Linked List Group Reverse                                  | https://www.geeksforgeeks.org/reverse-a-linked-list-in-groups-of-given-size-iterative-approach/ | LinkedList       | Hard    |
 | 52    | 2026-01-07 | GFG      | Clone List with Next and Random                            | https://www.geeksforgeeks.org/clone-linked-list-next-arbit-pointer-set-2/ | LinkedList       | Hard    |
-| 52    | 2026-01-07 | GFG      | Directed Graph Cycle                                       | https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/ | Graph      | Medium    |
+| 53    | 2026-01-07 | GFG      | Directed Graph Cycle                                       | https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/ | Graph      | Medium    |
+| 54    | 2026-01-07 | LeetCode | 207. Course Schedule                                       | https://leetcode.com/problems/course-schedule/ | Graph      | Medium    |
+| 55    | 2026-01-07 | LeetCode | 210. Course Schedule II                                    | https://leetcode.com/problems/course-schedule-ii/ | Graph      | Medium    |
