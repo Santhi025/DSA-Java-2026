@@ -109,3 +109,4 @@ This file tracks all DSA problems I solve in 2026.
 | 53    | 2026-01-07 | GFG      | Directed Graph Cycle                                       | https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/ | Graph      | Medium    |
 | 54    | 2026-01-07 | LeetCode | 207. Course Schedule                                       | https://leetcode.com/problems/course-schedule/ | Graph      | Medium    |
 | 55    | 2026-01-07 | LeetCode | 210. Course Schedule II                                    | https://leetcode.com/problems/course-schedule-ii/ | Graph      | Medium    |
+| 55    | 2026-01-08 | GFG      | Count Subarray with k odds                                 | https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1 | Graph      | Medium    |
