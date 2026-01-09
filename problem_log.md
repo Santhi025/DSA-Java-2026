@@ -109,4 +109,13 @@ This file tracks all DSA problems I solve in 2026.
 | 53    | 2026-01-07 | GFG      | Directed Graph Cycle                                       | https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1/ | Graph      | Medium    |
 | 54    | 2026-01-07 | LeetCode | 207. Course Schedule                                       | https://leetcode.com/problems/course-schedule/ | Graph      | Medium    |
 | 55    | 2026-01-07 | LeetCode | 210. Course Schedule II                                    | https://leetcode.com/problems/course-schedule-ii/ | Graph      | Medium    |
-| 55    | 2026-01-08 | GFG      | Count Subarray with k odds                                 | https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1 | Graph      | Medium    |
+| 56    | 2026-01-08 | GFG      | Count Subarray with k odds                                 | https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1 | Two Pointers    | Medium    |
+| 57    | 2026-01-08 | LeetCode | Count number of nice subarrays                             | https://leetcode.com/problems/count-number-of-nice-subarrays/description/ | Two Pointers  | Medium    |
+| 58    | 2026-01-09 | GFG      | Subarrays With At Most K Distinct Integers                 | https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers/1 | Two Pointers  | Medium    |
+| 59    | 2026-01-09 | GFG      | Max sum in the configuration                               | https://www.geeksforgeeks.org/problems/max-sum-in-the-configuration/1 | Two Pointers     | Medium    |
+| 60    | 2026-01-09 | GFG      | Maximum Index                                              | https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1 | Two Pointers      | Medium    |
+| 61    | 2026-01-09 | GFG      | Swapping pairs make sum equal                              | https://www.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal4142/1 | Two Pointers      | Medium    |
+| 62    | 2026-01-09 | GFG      | Detect Loop in linked list                                 | https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/ | LinkedList     | Medium    |
+| 63    | 2026-01-09 | GFG      | Find the first node of loop in linked list                 | https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/ | LinkedList     | Medium    |
+| 64    | 2026-01-09 | GFG      | Remove loop in Linked List                                 | https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/ | LinkedList     | Medium    |
+| 65    | 2026-01-09 | GFG      | Longest Increasing Subsequence                             | https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/ | LinkedList     | Medium    |
