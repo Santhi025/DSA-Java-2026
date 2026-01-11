@@ -119,3 +119,7 @@ This file tracks all DSA problems I solve in 2026.
 | 63    | 2026-01-09 | GFG      | Find the first node of loop in linked list                 | https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/ | LinkedList     | Medium    |
 | 64    | 2026-01-09 | GFG      | Remove loop in Linked List                                 | https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/ | LinkedList     | Medium    |
 | 65    | 2026-01-09 | GFG      | Longest Increasing Subsequence                             | https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/ | LinkedList     | Medium    |
+| 66    | 2026-01-10 | GFG      | Substrings with K Distinct                                 | https://www.geeksforgeeks.org/count-number-of-substrings-with-exactly-k-distinct-characters/ | Two pointers     | Medium    |
+| 67    | 2026-01-10 | GFG      | Undirected Graph Cycle                                     | https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1| Two pointers     | Medium    |
+| 68    | 2026-01-10 | GFG      | Shortest Path in Undirected Grap                           | https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1| Two pointers     | Medium    |
+| 69    | 2026-01-11 | LeetCode | 743. Network Delay Time                                    | https://leetcode.com/problems/network-delay-time/?envType=problem-list-v2&envId=9id5lube| Graph,Dijkstra's     | Medium    |

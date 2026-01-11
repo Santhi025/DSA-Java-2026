@@ -22,13 +22,9 @@ Problems are organized by topic:
 ## Platforms
 - LeetCode
 - GeeksforGeeks
+-CSES
 
 ## Language
 - Java
 
-## Note
-Each solution includes:
-- Problem details
-- Approach
-- Time and space complexity
 
