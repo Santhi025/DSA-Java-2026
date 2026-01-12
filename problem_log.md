@@ -122,4 +122,13 @@ This file tracks all DSA problems I solve in 2026.
 | 66    | 2026-01-10 | GFG      | Substrings with K Distinct                                 | https://www.geeksforgeeks.org/count-number-of-substrings-with-exactly-k-distinct-characters/ | Two pointers     | Medium    |
 | 67    | 2026-01-10 | GFG      | Undirected Graph Cycle                                     | https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1| Two pointers     | Medium    |
 | 68    | 2026-01-10 | GFG      | Shortest Path in Undirected Grap                           | https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1| Two pointers     | Medium    |
-| 69    | 2026-01-11 | LeetCode | 743. Network Delay Time                                    | https://leetcode.com/problems/network-delay-time/?envType=problem-list-v2&envId=9id5lube| Graph,Dijkstra's     | Medium    |
+| 69    | 2026-01-11 | LeetCode | 743. Network Delay Time                                    | https://leetcode.com/problems/network-delay-time/?envType=problem-list-v2&envId=9id5lube | Graph,Dijkstra's     | Medium    |
+| 70    | 2026-01-11 | LeetCode | 1143. Longest Common Subsequence                           | https://leetcode.com/problems/longest-common-subsequence/ | dp     | Medium    |
+| 71    | 2026-01-11 | GFG      | Longest Palindromic Subsequence                            | https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/ | dp     | Medium    |
+| 72    | 2026-01-11 | GFG      | Longest Palindrome in a String                             | https://www.geeksforgeeks.org/longest-palindromic-substring/ | dp     | Medium    |
+| 73    | 2026-01-12 | GFG      | K Sized Subarray Maximum                                   | https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1 | deque     | Medium    |
+| 74    | 2026-01-12 | GFG      | Negative weight cycle                                      | https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1 | deque     | Medium    |
+| 75    | 2026-01-12 | GFG      | Palindrome SubStrings                                      | https://www.geeksforgeeks.org/count-palindrome-sub-strings-string-set-2/ | String    | Medium    |
+| 76    | 2026-01-12 | CSES     | Cycle Finding                                              | https://cses.fi/problemset/task/1197/ | Graph    | Medium    |
+| 77    | 2026-01-12 | LeetCode | 1266. Minimum Time Visiting All Points                     | https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2026-01-12 | Math   | Easy    |
+| 76    | 2026-01-12 | CSES     | High Scorem                                                | https://cses.fi/problemset/task/1673/ | Graph    | Medium    |
