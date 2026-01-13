@@ -132,3 +132,6 @@ This file tracks all DSA problems I solve in 2026.
 | 76    | 2026-01-12 | CSES     | Cycle Finding                                              | https://cses.fi/problemset/task/1197/ | Graph    | Medium    |
 | 77    | 2026-01-12 | LeetCode | 1266. Minimum Time Visiting All Points                     | https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2026-01-12 | Math   | Easy    |
 | 76    | 2026-01-12 | CSES     | High Scorem                                                | https://cses.fi/problemset/task/1673/ | Graph    | Medium    |
+| 77    | 2026-01-13 | GFG      | Bus Ticket Change                                          | https://www.geeksforgeeks.org/problems/lemonade-change/1 | greedy    | Easy    |
+| 77    | 2026-01-13 | LeetCode | 3453. Separate Squares I                                   | https://leetcode.com/problems/separate-squares-i/description/ | BS   | Medium    |
+
