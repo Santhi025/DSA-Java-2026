@@ -131,7 +131,18 @@ This file tracks all DSA problems I solve in 2026.
 | 75    | 2026-01-12 | GFG      | Palindrome SubStrings                                      | https://www.geeksforgeeks.org/count-palindrome-sub-strings-string-set-2/ | String    | Medium    |
 | 76    | 2026-01-12 | CSES     | Cycle Finding                                              | https://cses.fi/problemset/task/1197/ | Graph    | Medium    |
 | 77    | 2026-01-12 | LeetCode | 1266. Minimum Time Visiting All Points                     | https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2026-01-12 | Math   | Easy    |
-| 76    | 2026-01-12 | CSES     | High Scorem                                                | https://cses.fi/problemset/task/1673/ | Graph    | Medium    |
-| 77    | 2026-01-13 | GFG      | Bus Ticket Change                                          | https://www.geeksforgeeks.org/problems/lemonade-change/1 | greedy    | Easy    |
-| 77    | 2026-01-13 | LeetCode | 3453. Separate Squares I                                   | https://leetcode.com/problems/separate-squares-i/description/ | BS   | Medium    |
+| 78    | 2026-01-12 | CSES     | High Scorem                                                | https://cses.fi/problemset/task/1673/ | Graph    | Medium    |
+| 79    | 2026-01-13 | GFG      | Bus Ticket Change                                          | https://www.geeksforgeeks.org/problems/lemonade-change/1 | greedy    | Easy    |
+| 80    | 2026-01-13 | LeetCode | 3453. Separate Squares I                                   | https://leetcode.com/problems/separate-squares-i/description/ | BS   | Medium    |
+| 81    | 2026-01-14 | GFG      | Police and Thieves                                         | https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1 | greedy    | Medium  |
+| 83    | 2026-01-14 | GFG      | Longest String Chains                                      | https://www.geeksforgeeks.org/find-the-length-of-the-longest-possible-word-chain/ | DP | Hard |
+| 84    | 2026-01-14 | GFG      | Longest String Chains                                      | https://www.geeksforgeeks.org/find-the-length-of-the-longest-possible-word-chain/ | DP | Hard |
+| 85    | 2026-01-14 | GFG      | Longest String Chains                                      | https://www.geeksforgeeks.org/find-the-length-of-the-longest-possible-word-chain/ | DP | Hard |
+| 86    | 2026-01-14 | GFG      | Floyd Warshall                                             | https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1 | DP | Hard |
+| 87    | 2026-01-16 | LeetCode | 2975. Maximum Square Area by Removing Fences From a Field  | https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/ | Hash   | Medium    |
+| 87    | 2026-01-16 | GFG      | Minimum Number of Workers                                  | https://www.geeksforgeeks.org/problems/minimum-sprinklers/1 | Greedy   | Medium    |
+| 88    | 2026-01-17 | LeetCode | 3047. Find the Largest Area of Square Inside Two Rectangles| https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/?envType=daily-question&envId=2026-01-17 | Greedy | Medium    |
+| 88    | 2026-01-17 | LeetCode | 3218. Minimum Cost for Cutting Cake I                      | https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/description/ | Greedy | Medium    |
+| 89    | 2026-01-17 | GFG      | Expression contains redundant bracket or not               | https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1 | Stack   | Medium    |
+| 90    | 2026-01-17 | LeetCode | 33219. Minimum Cost for Cutting Cake II                    | https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/ | Greedy | Hard   |
 
