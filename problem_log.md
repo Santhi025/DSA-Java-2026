@@ -140,9 +140,44 @@ This file tracks all DSA problems I solve in 2026.
 | 85    | 2026-01-14 | GFG      | Longest String Chains                                      | https://www.geeksforgeeks.org/find-the-length-of-the-longest-possible-word-chain/ | DP | Hard |
 | 86    | 2026-01-14 | GFG      | Floyd Warshall                                             | https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1 | DP | Hard |
 | 87    | 2026-01-16 | LeetCode | 2975. Maximum Square Area by Removing Fences From a Field  | https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/ | Hash   | Medium    |
-| 87    | 2026-01-16 | GFG      | Minimum Number of Workers                                  | https://www.geeksforgeeks.org/problems/minimum-sprinklers/1 | Greedy   | Medium    |
-| 88    | 2026-01-17 | LeetCode | 3047. Find the Largest Area of Square Inside Two Rectangles| https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/?envType=daily-question&envId=2026-01-17 | Greedy | Medium    |
-| 88    | 2026-01-17 | LeetCode | 3218. Minimum Cost for Cutting Cake I                      | https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/description/ | Greedy | Medium    |
-| 89    | 2026-01-17 | GFG      | Expression contains redundant bracket or not               | https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1 | Stack   | Medium    |
-| 90    | 2026-01-17 | LeetCode | 33219. Minimum Cost for Cutting Cake II                    | https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/ | Greedy | Hard   |
+| 88    | 2026-01-16 | GFG      | Minimum Number of Workers                                  | https://www.geeksforgeeks.org/problems/minimum-sprinklers/1 | Greedy   | Medium    |
+| 89    | 2026-01-17 | LeetCode | 3047. Find the Largest Area of Square Inside Two Rectangles| https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/description/?envType=daily-question&envId=2026-01-17 | Greedy | Medium    |
+| 90    | 2026-01-17 | LeetCode | 3218. Minimum Cost for Cutting Cake I                      | https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/description/ | Greedy | Medium    |
+| 91    | 2026-01-17 | GFG      | Expression contains redundant bracket or not               | https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1 | Stack   | Medium    |
+| 92    | 2026-01-17 | LeetCode | 33219. Minimum Cost for Cutting Cake II                    | https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/ | Greedy | Hard   |
+| 93    | 2026-01-17 | LeetCode | 122. Best Time to Buy and Sell Stock II                    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/ | Greedy | Medium |
+| 94    | 2026-01-17 | GFG      | Fractional Knapsack                                        | https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1 | Greedy  | Medium    |
+| 95    | 2026-01-18 | LeetCode | 1326. Minimum Number of Taps to Open to Water a Garden     | https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/ | Greedy  | Hard  |
+| 96    | 2026-01-18 | LeetCode | 3814. Maximum Capacity Within Budget                       | https://leetcode.com/problems/maximum-capacity-within-budget/ | Greedy  | Medium  |
+| 97    | 2026-01-18 | LeetCode | Q1. Vowel-Consonant Score                                  | https://leetcode.com/problems/vowel-consonant-score/ | String | Medium  |
+| 98    | 2026-01-18 | GFG      | Next element with greater frequency                        | https://www.geeksforgeeks.org/problems/next-element-with-greater-frequency--170637/1 | Stack | Medium  |
+| 99    | 2026-01-20 | GFG      | Stock span problem                                         | https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1 | Stack | Medium  |
+| 100   | 2026-01-20 | LeetCode | 901. Online Stock Span                                     | https://leetcode.com/problems/online-stock-span/description/ | Monotonic Stack | Medium  |
+| 101   | 2026-01-22 | GFG      | Sum of subarray ranges                                     | https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1 | Stack | Medium  |
+| 102   | 2026-01-23 | GFG      | Maximum People Visible in a Line                           | https://www.geeksforgeeks.org/problems/maximum-people-visible-in-a-line/1 | Stack | Medium  |
+| 103   | 2026-01-23 | GFG      | Gas Station                                                | https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1 | Greedy | Medium  |
+| 104   | 2026-01-23 | LeetCode | 134. Gas Station                                           | https://leetcode.com/problems/gas-station/ | Greedy | Medium  |
+| 105   | 2026-01-23 | LeetCode | 2104. Sum of Subarray Ranges                               | https://leetcode.com/problems/sum-of-subarray-ranges/description/ | Greedy | Medium  |
+| 106   | 2026-01-23 | LeetCode | 739. Daily Temperatures                                    | https://leetcode.com/problems/sum-of-subarray-ranges/description/ | Greedy | Medium  |
+| 107   | 2026-01-24 | GFG      | Josephus problem                                           | https://www.geeksforgeeks.org/problems/josephus-problem/1 | Recursion | Easy  |
+| 108   | 2026-01-24 | GFG      | Longest Consecutive 1's                                    | https://www.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1 | BitMagic | Easy  |
+| 109   | 2026-01-24 | GFG      | Number of 1 Bits                                           | https://www.geeksforgeeks.org/problems/set-bits0143/1 | BitMagic | Easy  |
+| 110   | 2026-01-24 | LeetCode | 1877. Minimize Maximum Pair Sum in Array                   | https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/ | Sorting,Greedy | Medium  |
+| 111   | 2026-01-24 | LeetCode | 72. Edit Distance                                          | https://leetcode.com/problems/edit-distance/ | DP | Medium  |
+| 112   | 2026-01-24 | GFG      | Edit Distance                                              | https://www.geeksforgeeks.org/dsa/edit-distance-dp-5/ | DP | Medium  |
+| 113   | 2026-01-24 | LeetCode | 19. Remove Nth Node From End of List                       | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | LinkedList | Medium  |
+| 114   | 2026-01-24 | LeetCode | 206. Reverse Linked List                                   | https://leetcode.com/problems/reverse-linked-list/description/ | LinkedList | Easy |
+| 115   | 2026-01-24 | GFG      | Ways to Reach the n'th Stair                               | https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1/ | DP | Medium  |
+| 116   | 2026-01-24 | GFG      | Min Cost Climbing Stairs                                   | https://www.geeksforgeeks.org/minimum-cost-to-reach-the-top-of-the-floor-by-climbing-stairs/ | DP | Medium  |
+| 117   | 2026-01-25 | LeetCode |1984.MinimumDifferenceBetweenHighest and Lowest of K Scores | https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/ | Sliding Window | Easy |
+| 118   | 2026-01-25 | LeetCode |3818. Minimum Prefix Removal to Make Array Strictly Increasing | https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/ | Arrays | Medium |
+| 119   | 2026-01-25 | LeetCode |3819. Rotate Non Negative Elements                          | https://leetcode.com/problems/rotate-non-negative-elements/ | Arrays | Medium |
+| 120   | 2026-01-25 | LeetCode |287. Find the Duplicate Number                              | https://leetcode.com/problems/find-the-duplicate-number/ | Two Pointers | Medium |
+| 121   | 2026-01-25 | LeetCode |61. Rotate List                                             | https://leetcode.com/problems/rotate-list/?envType=problem-list-v2&envId=linked-list | LinkedList | Medium |
+| 122   | 2026-01-25 | LeetCode |160. Intersection of Two Linked Lists                       | https://leetcode.com/problems/intersection-of-two-linked-lists/description/?envType=problem-list-v2&envId=linked-list | LinkedList | Easy |
+| 123   | 2026-01-25 | LeetCode |21. Merge Two Sorted Lists                                  | https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=linked-list | LinkedList | Easy |
+
+
+
+
 
