@@ -176,6 +176,38 @@ This file tracks all DSA problems I solve in 2026.
 | 121   | 2026-01-25 | LeetCode |61. Rotate List                                             | https://leetcode.com/problems/rotate-list/?envType=problem-list-v2&envId=linked-list | LinkedList | Medium |
 | 122   | 2026-01-25 | LeetCode |160. Intersection of Two Linked Lists                       | https://leetcode.com/problems/intersection-of-two-linked-lists/description/?envType=problem-list-v2&envId=linked-list | LinkedList | Easy |
 | 123   | 2026-01-25 | LeetCode |21. Merge Two Sorted Lists                                  | https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=linked-list | LinkedList | Easy |
+| 124   | 2026-01-25 | GFG      | Number of Valid Parentheses                                | https://www.geeksforgeeks.org/problems/valid-number-of-parenthesis/1 | Math | Medium  |
+| 125   | 2026-01-26 | GFG      | Generate Permutations of an array                          | https://www.geeksforgeeks.org/problems/generate-permutations-of-an-array/1 | Backtracking | Medium |
+| 126   | 2026-01-26 | LeetCode |1200. Minimum Absolute Difference                           | https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26 | Sorting | Easy |
+| 127   | 2026-01-26 | LeetCode |2064. Minimized Maximum of Products Distributed to Any Store| https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/ | BS | Medium |
+| 128   | 2026-01-26 | LeetCode |2616. Minimize the Maximum Difference of Pairs              | https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/ | BS | Medium |
+| 129   | 2026-01-27 | GFG      | Word Search                                                | https://www.geeksforgeeks.org/problems/word-search/1 | DFS | Medium |
+| 130   | 2026-01-27 | GFG      | Find the number of islands                                 | https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1 | DFS | Medium |
+| 131   | 2026-01-27 | LeetCode | 94. Binary Tree Inorder Traversal                          | https://leetcode.com/problems/binary-tree-inorder-traversal/description/?envType=problem-list-v2&envId=binary-tree | Binary Tree | Easy |
+| 132   | 2026-01-27 | LeetCode | 101. Symmetric Tree                                        | https://leetcode.com/problems/symmetric-tree/description/?envType=problem-list-v2&envId=binary-tree | Binary Tree | Easy |
+| 133   | 2026-01-27 | LeetCode | 226. Invert Binary Tree                                    | https://leetcode.com/problems/invert-binary-tree/description/ | Binary Tree | Easy |
+| 134   | 2026-01-27 | LeetCode | 112. Path Sum                                              | https://leetcode.com/problems/path-sum/description/?envType=problem-list-v2&envId=binary-tree | Binary Tree | Easy |
+| 135   | 2026-01-27 | LeetCode | 3650. Minimum Cost Path with Edge Reversals                | https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27 | Graph,dijkshra | Medium |
+| 136   | 2026-01-28 | GFG      | Count Subset With Target Sum II                            | https://www.geeksforgeeks.org/problems/count-the-subset-with-sum-equal-to-k/1 | DP | Medium |
+| 137   | 2026-01-28 | LeetCode | 114. Flatten Binary Tree to Linked List                    | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=binary-tree | Binary Tree | Medium |
+| 138   | 2026-01-28 | LeetCode | 100. Same Tree                                             | https://leetcode.com/problems/same-tree/description/?envType=problem-list-v2&envId=binary-tree | Graph,dijkshra | Medium |
+| 139   | 2026-01-28 | LeetCode | 98. Validate Binary Search Tree                            | https://leetcode.com/problems/validate-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree | BST | Medium |
+| 140   | 2026-01-28 | LeetCode | 230. Kth Smallest Element in a BST                         | https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree | BST | Medium |
+| 141   | 2026-01-28 | LeetCode | 235. Lowest Common Ancestor of a Binary Search Tree        | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree | BST | Medium |
+| 142   | 2026-01-29 | GFG      | Stream First Non-repeating                                 | https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1 | Hash,Queue | Medium |
+| 143   | 2026-01-29 | LeetCode | 106. ConstructBinaryTreefromInorderandPostorderTraversal   | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | BinaryTree | Medium |
+| 144   | 2026-01-29 | LeetCode | 105. Construct Binary Tree from PreorderandInorderraversal | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | BinaryTree | Medium |
+| 145   | 2026-01-29 | LeetCode | 889. Construct Binary TreefromPreorderandPostorderTraversal| https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | BinaryTree | Medium |
+| 146   | 2026-01-29 | LeetCode | 2976. Minimum Cost to Convert String I                     | https://leetcode.com/problems/minimum-cost-to-convert-string-i/ | Graph Theory | Medium |
+| 147   | 2026-01-30 | GFG      | Interleavin Queue halves                                   | https://www.geeksforgeeks.org/dsa/interleave-first-half-queue-second-half/ | Queue | Medium |
+| 148   | 2026-01-31 | LeetCode | 3823. Reverse Letters Then Special Characters in a String  | https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/description/ | String | Easy |
+| 149   | 2026-01-31 | LeetCode | 236. Lowest Common Ancestor of a Binary Tree               | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/ | Binary Tree | Medium |
+| 150   | 2026-01-31 | LeetCode | 110. Balanced Binary Tree                                  | https://leetcode.com/problems/balanced-binary-tree/description/?envType=problem-list-v2&envId=binary-tree/ | Binary Tree | Easy |
+| 151   | 2026-01-31 | LeetCode | 3824. Minimum K to Reduce Array Within Limit               | https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/description/ | Binary Search | Medium |
+
+
+
+
 
 
 
