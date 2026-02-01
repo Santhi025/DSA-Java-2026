@@ -208,6 +208,16 @@ This file tracks all DSA problems I solve in 2026.
 
 
 
+##February
+
+| 1   | 2026-02-01 | LeetCode | 543. Diameter of Binary Tree                               | https://leetcode.com/problems/diameter-of-binary-tree/  | Binary Tree       | Easy  |
+| 2   | 2026-02-01 | LeetCode | 735. Asteroid Collision                                    | https://leetcode.com/problems/asteroid-collision/  | Stack        | Medium  |
+| 3   | 2026-02-01 | LeetCode | 104. Maximum Depth of Binary Tree                          | https://leetcode.com/problems/maximum-depth-of-binary-tree/  | Binary Tree  | Easy  |
+| 4   | 2026-02-01 | GFG      | Diagonal Tree Traversal                                    | https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1 | LinkedList         | Medium     |
+| 5   | 2026-02-01 | LeetCode | 103. Binary Tree Zigzag Level Order Traversal              | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/  | Binary Tree  | Medium  |
+| 6   | 2026-02-01 | LeetCode | 3010. Divide an Array Into Subarrays With Minimum Cost I   | https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01  | Array  | Easy  |
+
+
 
 
 
