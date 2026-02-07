@@ -7,50 +7,6 @@ This file tracks all DSA problems I solve in 2026.
 
 ## Problems
 
-<!-- | SI.No | Date | Platform | Problem Name | Problem Link | Topic | Difficulty | 
-|---|------|----------|--------------|--------------|-------|------------|
-| 3 | 2026-01-01 | LeetCode | 8. String to Integer (atoi) | https://leetcode.com/problems/string-to-integer-atoi/ | String | Medium |
-| 4 | 2026-01-02 | LeetCode | 1306. Jump Game III | https://leetcode.com/problems/jump-game-iii/ | Array,DFS,BFS | Medium |
-| 5 | 2026-01-03 | LeetCode | 430. Flatten a Multilevel Doubly Linked List | https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/ | LinkedList | Medium |
-| 6 | 2026-01-03 | LeetCode | 3794. Reverse String Prefix | https://leetcode.com/problems/reverse-string-prefix/ | String | easy |
-| 7 | 2026-01-03 | LeetCode | 3795. Minimum Subarray Length With Distinct Sum At Least K | https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/ | Two Pointers,Array | Medium |
-| 8 | 2026-01-03 | GFG | Flattening a Linked List | https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1 | LinkedList | Medium |
-| 9 | 2026-01-03 | GFG | Kth Missing Positive Number in a Sorted Array | https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1 | BinarySearch | Medium |
-| 10 | 2026-01-03 | GFG | Allocate Minimum Pages | https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 |BinarySearch | Medium |
-| 11 | 2026-01-03 | GFG | Aggressive Cows | https://www.geeksforgeeks.org/assign-stalls-to-k-cows-to-maximize-the-minimum-distance-between-them/ | BinarySearch | Medium |
-| 12 | 2026-01-04 | GFG | Nonoverlapping Intervals | https://www.geeksforgeeks.org/minimum-removals-required-to-make-ranges-non-overlapping/ | Sorting | Medium |
-| 13 | 2026-01-04 | GFG | Insert Interval | https://www.geeksforgeeks.org/insert-in-sorted-and-non-overlapping-interval-array/ | Sorting | Medium |
-| 14 | 2026-01-04 | GFG | Spirally traversing a matrix | https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/ | Matrix | Medium |
-| 15 | 2026-01-04 | GFG | Rotate by 90 degree | https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1 | Matrix | Medium |
-| 16 | 2026-01-04 | GFG | Search in a Row-Column sorted matrix | https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/| Matrix | Easy |
-| 17 | 2026-01-04 | LeetCode | 310. Minimum Height Trees | https://leetcode.com/problems/minimum-height-trees/ | Trees | Medium |
-| 18 | 2026-01-04 | CSES | Tree Diameter | https://cses.fi/problemset/task/1131/ | Trees | Medium |
-| 19 | 2026-01-05 | GFG | Max Sum Subarray of size K | https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 | Two Pointers | Easy |
-| 20 | 2026-01-05 | GFG | Minimize the Heights II | https://www.geeksforgeeks.org/problems/minimize-the-heights3351/0 | Greedy | Medium |
-| 21 | 2026-01-05 | LeetCode | 2258. Escape the Spreading Fire | https://leetcode.com/problems/escape-the-spreading-fire/ | BFS,BS | Hard |
-| 22 | 2026-01-05 | LeetCode | 994. Rotting Oranges | https://leetcode.com/problems/rotting-oranges/ | BFS,BS | Hard |
-| 23 | 2026-01-05 | GFG | Search in a row-wise sorted matrix | https://www.geeksforgeeks.org/search-in-matrix-where-only-individual-rows-are-sorted/ | BS | Easy |
-| 24 | 2026-01-05 | GFG | Set Matrix Zeros | https://www.geeksforgeeks.org/set-entire-matrix-row-and-column-as-zeroes/ | Matrix | Medium |
-| 25 | 2026-01-05 | GFG | Search in a sorted Matrix | https://www.geeksforgeeks.org/search-element-sorted-matrix/ | Matrix,BS | Medium |
-| 26 | 2026-01-05 | GFG | Two Sum - Pair with Given Sum | https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array/ | HashSet | Easy |
-| 27 | 2026-01-05 | GFG | Count pairs with given sum | https://www.geeksforgeeks.org/count-pairs-with-given-sum/ | HashMap | Medium |
-| 28 | 2026-01-05 | GFG | Find All Triplets with Zero Sum | https://www.geeksforgeeks.org/find-triplets-array-whose-sum-equal-zero/ | Sorting,BS | Medium |
-| 29 | 2026-01-05 | GFG | Intersection of Two arrays with Duplicate Elements | https://www.geeksforgeeks.org/intersection-of-two-arrays/ | HashMap | Easy |
-| 30 | 2026-01-05 | GFG | Union of Arrays with Duplicates | https://www.geeksforgeeks.org/Union%20of%20Two%20Arrays/ | HashMap | Easy |
-| 31 | 2026-01-05 | GFG | Find All Triplets with Zero Sum | https://www.geeksforgeeks.org/longest-consecutive-subsequence/ | HashSet | Medium |
-| 32 | 2026-01-05 | GFG | Print Anagrams Together | https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/ | HashMap | Medium |
-| 33 | 2026-01-05 | GFG | Subarrays with sum K | https://www.geeksforgeeks.org/number-subarrays-sum-exactly-equal-k/ | HashMap | Medium |
-| 34 | 2026-01-05 | GFG | Count all triplets with given sum in sorted array | https://www.geeksforgeeks.org/problems/count-all-triplets-with-given-sum-in-sorted-array/1 | two pointers | Medium |
-| 35 | 2026-01-06 | GFG | Count Pairs whose sum is less than target | https://www.geeksforgeeks.org/count-pairs-array-whose-sum-less-x/ | two pointers | Easy |
-| 37 | 2026-01-06 | GFG | Sum Pair closest to target | https://www.geeksforgeeks.org/2-sum-pair-sum-closest-to-target/ | two pointers | Easy |
-| 38 | 2026-01-06 | GFG | Pair with given sum in a sorted array |https://www.geeksforgeeks.org/count-pairs-with-given-sum-in-sorted-array/ | two pointers | Easy |
-| 39 | 2026-01-06 | GFG | Count the number of possible triangles | https://www.geeksforgeeks.org/find-number-of-triangles-possible/ | two pointers | Medium |
-| 40 | 2026-01-06 | GFG | Indexes of Subarray Sum | https://www.geeksforgeeks.org/find-subarray-with-given-sum/ | two pointers | Medium |
-| 41 | 2026-01-06 | GFG | Max Xor Subarray of size K | https://www.geeksforgeeks.org/problems/max-xor-subarray-of-size-k/1 | two pointers | Medium |
-| 42 | 2026-01-06 | Leetcode | 684. Redundant Connection | https://leetcode.com/problems/redundant-connection/ | two pointers | Medium | -->
-
-
-
 
 | SI.No | Date | Platform | Problem Name | Problem Link | Topic | Difficulty |
 | ----- | ---- | -------- | ------------ | -------------| ----- | ---------- |
@@ -216,6 +172,34 @@ This file tracks all DSA problems I solve in 2026.
 | 4   | 2026-02-01 | GFG      | Diagonal Tree Traversal                                    | https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1 | LinkedList         | Medium     |
 | 5   | 2026-02-01 | LeetCode | 103. Binary Tree Zigzag Level Order Traversal              | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/  | Binary Tree  | Medium  |
 | 6   | 2026-02-01 | LeetCode | 3010. Divide an Array Into Subarrays With Minimum Cost I   | https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01  | Array  | Easy  |
+| 7   | 2026-02-02 | LeetCode | 198. House Robber                                          | https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=top-interview-150 | DP  | Medium  |
+| 8   | 2026-02-02 | LeetCode | 274. H-Index                                               | https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150 | Binary Search  | Medium  |
+| 9   | 2026-02-02 | LeetCode | 275. H-Index II                                            | https://leetcode.com/problems/h-index-ii/description/ | Binary Search  | Medium  |
+| 10  | 2026-02-02 | GFG      | Max Circular Subarray Sum                                  | https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1 | Arrays         | Hard    |
+| 11  | 2026-02-03 | GFG      | Stock Buy and Sell – Max one Transaction Allowed           | https://www.geeksforgeeks.org/problems/buy-stock-2/1 | Arrays         | Easy  |
+| 12  | 2026-02-03 | LeetCode | 3637. Trionic Array I                                      | https://leetcode.com/problems/trionic-array-i/ | Arrays  | Easy  |
+| 13  | 2026-02-03 | LeetCode | 56. Merge Intervals                                        | https://leetcode.com/problems/merge-intervals/ | Arrays,Sorting  | Medium  |
+| 14  | 2026-02-04 | LeetCode | 3640. Trionic Array II                                     | https://leetcode.com/problems/trionic-array-ii/ | Arrays,ThreePointers  | Medium  |
+| 15  | 2026-02-04 | GFG      | Last Moment Before All Ants Fall Out of a Plank            | https://www.geeksforgeeks.org/dsa/last-moment-before-all-ants-fall-out-of-a-plank/| Greedy      | Medium  |
+| 16  | 2026-02-05 | LeetCode | 3379. Transformed Array                                    | https://leetcode.com/problems/transformed-array/description/?envType=daily-question&envId=2026-02-05 | Arrays  | Easy  |
+| 17  | 2026-02-05 | GFG      | Maximize Number of 1's                                     | https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1 | Two Pointers     | Medium  |
+| 18  | 2026-02-06 | LeetCode | 3634. Minimum Removals to Balance Array                    | https://leetcode.com/problems/minimum-removals-to-balance-array/ | Two Pointers | Medium |
+| 19  | 2026-02-06 | GFG      | 0 - 1 Knapsack Problem                                     | https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/0-1-knapsack-problem0945 | DP    | Medium |
+| 20  | 2026-02-06 | GFG      | Coin Change (Count Ways)                                   | https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/coin-change2448 | DP    | Medium |
+| 21  | 2026-02-06 | GFG      | Coin Change (Minimum Coins)                                | https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/number-of-coins1824 | DP    | Medium |
+| 22  | 2026-02-06 | LeetCode | 322. Coin Change                                           | https://leetcode.com/problems/coin-change/ | DP| Medium |
+| 23  | 2026-02-06 | GFG      | Minimum Jumps                                              | https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/ | DP    | Medium |
+| 24  | 2026-02-06 | GFG      | Happiest Triplet                                           | https://www.geeksforgeeks.org/problems/happiest-triplet2921/1 | DP    | Medium |
+| 25  | 2026-02-06 | GFG      | Maximum path sum in matrix                                 | https://www.geeksforgeeks.org/problems/path-in-matrix3805/1 | DP    | Medium |
+| 26  | 2026-02-07 | LeetCode | 1653. Minimum Deletions to Make String Balanced            | https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/ | DP    | Medium |
+| 27  | 2026-02-07 | GFG      | Max Diff Elements and Indexes                              | https://www.geeksforgeeks.org/problems/maximum-value-of-difference-of-a-pair-of-elements-and-their-index/1 | Maths  | Medium |
+
+
+
+
+
+
+
 
 
 
