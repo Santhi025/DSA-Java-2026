@@ -165,7 +165,8 @@ This file tracks all DSA problems I solve in 2026.
 
 
 ##February
-
+| SI.No | Date | Platform | Problem Name | Problem Link | Topic | Difficulty |
+| ----- | ---- | -------- | ------------ | -------------| ----- | ---------- |
 | 1   | 2026-02-01 | LeetCode | 543. Diameter of Binary Tree                               | https://leetcode.com/problems/diameter-of-binary-tree/  | Binary Tree       | Easy  |
 | 2   | 2026-02-01 | LeetCode | 735. Asteroid Collision                                    | https://leetcode.com/problems/asteroid-collision/  | Stack        | Medium  |
 | 3   | 2026-02-01 | LeetCode | 104. Maximum Depth of Binary Tree                          | https://leetcode.com/problems/maximum-depth-of-binary-tree/  | Binary Tree  | Easy  |
